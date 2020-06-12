@@ -5,3 +5,16 @@
 .DS_Store
 
 /.idea
+
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Kitchen directory
+**/.kitchen/*
+
+# Crash log files
+crash.log
