@@ -13,8 +13,9 @@
 *.tfstate
 *.tfstate.*
 
-# Kitchen directory
+# Kitchen files
 **/.kitchen/*
+*.lock
 
 # Crash log files
 crash.log
